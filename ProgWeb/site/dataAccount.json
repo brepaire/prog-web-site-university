@@ -1,0 +1,22 @@
+[
+    {
+        "email": "aaa@gmail.com",
+        "password": "$2y$10$hg9Liu7\/PAC9iSWz6VculO6b9X0rDVzxMq9WniAFbVyThOrypv8\/m",
+        "isProf": true
+    },
+    {
+        "email": "yandalmeida@gmail.com",
+        "password": "$2y$10$AP.nbLTH0fAKDI9hE4U4HOuHOhl2hy81YrCQBXuZwGu9SnjU4MK4m",
+        "isProf": true
+    },
+    {
+        "email": "yannick.dalmeida@u-psud.fr",
+        "password": "$2y$10$Jj5sYU1xTKYgQoUiVNaxu.c3v.5Wgh947AMbFEXI62eEdLGbRp0lK",
+        "isProf": true
+    },
+    {
+        "email": "test.test@gmail.com",
+        "password": "$2y$10$MRQkXnnULSaoetH4Vzsige.b0Wc\/N3Q\/BIkus\/4H.TqhzZDaCnJHO",
+        "isProf": true
+    }
+]
